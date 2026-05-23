@@ -1,0 +1,30 @@
+aid: herman-miller
+url: https://github.com/api-evangelist/herman-miller
+name: Herman Miller
+type: Index
+image: https://avatars.githubusercontent.com/u/api-evangelist
+tags:
+  - Furniture
+  - Design
+  - Office Furnishings
+  - Workplace
+  - Contract Furniture
+description: >-
+  Herman Miller is an American furniture company founded in 1905 and headquartered in Zeeland, Michigan, known for iconic office and residential designs including the Aeron chair and the Eames lounge chair. On July 19, 2021, Herman Miller closed its acquisition of Knoll Inc. in a $1.8 billion cash-and-stock deal and rebranded the combined company as MillerKnoll (NASDAQ: MLKN). Herman Miller continues as a consumer-facing brand within the MillerKnoll collective alongside Knoll, Design Within Reach, HAY, Muuto, Geiger, Holly Hunt, Maharam, Naughtone, DatesWeiser, Edelman Leather, and Colebrook Bosson Saunders. Herman Miller sells through retail, contract, and dealer channels and does not publish a public developer API portal — partner ordering, dealer pricing, and supply-chain integrations are private B2B channels run through MillerKnoll.
+created: '2026-05-23'
+modified: '2026-05-23'
+specificationVersion: '0.19'
+common:
+  - type: Website
+    url: https://www.hermanmiller.com
+  - type: ParentCompany
+    url: https://www.millerknoll.com
+  - type: InvestorRelations
+    url: https://investors.millerknoll.com
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/herman-miller
+  - type: Wikipedia
+    url: https://en.wikipedia.org/wiki/Herman_Miller
+maintainers:
+  - FN: API Evangelist
+    url: https://apievangelist.com
